@@ -2,11 +2,11 @@
   "schema": 1,
   "status": "published",
   "package": "com.usman.videodownloader.studio",
-  "versionName": "3.2",
-  "versionCode": 38,
-  "tag": "studio-v3.2.0",
-  "filename": "Usman-Studio-v3.2.apk",
-  "sha256": "42ac5480930949084bbade8c53306b3db79cce4262645edf40e4a2b2cb410d20",
-  "bytes": 60986976,
-  "notes": "Automatic Studio updates now retry after validated network recovery, avoid repetitive launch popups for the same version, and defer prompts until Studio returns to the foreground. Download queue, partial transfers and signed installation remain unchanged."
+  "versionName": "3.3",
+  "versionCode": 39,
+  "tag": "studio-v3.3.0",
+  "filename": "Usman-Studio-v3.3.apk",
+  "sha256": "c68d80c5b05d35a1bc28dab0350d888738db02274aee0ce3c412d7d4463564fd",
+  "bytes": 60999419,
+  "notes": "Usman Studio has a redesigned glossy blue-to-violet play/download logo on its Android launcher and app header, plus an Android themed icon. The installed package, original signing identity, saved files and download queue remain unchanged."
 }
