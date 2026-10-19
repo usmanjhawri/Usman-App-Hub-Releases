@@ -1,5 +1,12 @@
 {
   "schema": 1,
-  "status": "unpublished",
-  "package": "com.usman.videodownloader.studio"
+  "status": "published",
+  "package": "com.usman.videodownloader.studio",
+  "versionName": "2.13",
+  "versionCode": 34,
+  "tag": "studio-v2.13.0",
+  "filename": "Usman-Studio-v2.13.apk",
+  "sha256": "328c3d67d2716387231ea1f0ea8e3077cf910eff9153e687f0d9731f0db5056c",
+  "bytes": 60982954,
+  "notes": "Redesigned Home and Queue screens, improved download controls, accessibility and readability. Existing downloads and pause/resume preserved."
 }
