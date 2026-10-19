@@ -2,11 +2,11 @@
   "schema": 1,
   "status": "published",
   "package": "com.usman.videodownloader.studio",
-  "versionName": "2.14",
-  "versionCode": 35,
-  "tag": "studio-v2.14.0",
-  "filename": "Usman-Studio-v2.14.apk",
-  "sha256": "9100ffe9d0105dda947ed894b7f2944de69d60595d031627d2275a5cd0e741a4",
-  "bytes": 60987046,
-  "notes": "Cleaner idle Queue and simpler controls. Improved dark/light update dialogs. Existing downloads and pause/resume remain intact."
+  "versionName": "3.0",
+  "versionCode": 36,
+  "tag": "studio-v3.0.0",
+  "filename": "Usman-Studio-v3.0.apk",
+  "sha256": "834425baaf199b535c4853387f0f30d2e9cc07ec5e1cdb7a93cdfdae4852065f",
+  "bytes": 60982880,
+  "notes": "Major UI overhaul: cleaner Home and Queue, improved Files and Settings, consistent styling and accessible controls. Existing download, pause/resume and in-app update safeguards preserved."
 }
