@@ -2,11 +2,11 @@
   "schema": 1,
   "status": "published",
   "package": "com.usman.videodownloader.studio",
-  "versionName": "3.0",
-  "versionCode": 36,
-  "tag": "studio-v3.0.0",
-  "filename": "Usman-Studio-v3.0.apk",
-  "sha256": "834425baaf199b535c4853387f0f30d2e9cc07ec5e1cdb7a93cdfdae4852065f",
+  "versionName": "3.1",
+  "versionCode": 37,
+  "tag": "studio-v3.1.0",
+  "filename": "Usman-Studio-v3.1.apk",
+  "sha256": "efcb4254bbf116eb1de3a614866c6b3dde842178166a4d13f72cf2b19f0e08ee",
   "bytes": 60982880,
-  "notes": "Major UI overhaul: cleaner Home and Queue, improved Files and Settings, consistent styling and accessible controls. Existing download, pause/resume and in-app update safeguards preserved."
+  "notes": "More reliable automatic update checks when Studio is reopened: hourly foreground refresh and retry after temporary network failure. Existing downloads, pause/resume, and secure installation preserved."
 }
