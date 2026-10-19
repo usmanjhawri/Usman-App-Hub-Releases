@@ -2,11 +2,11 @@
   "schema": 1,
   "status": "published",
   "package": "com.usman.videodownloader.studio",
-  "versionName": "3.3",
-  "versionCode": 39,
-  "tag": "studio-v3.3.0",
-  "filename": "Usman-Studio-v3.3.apk",
-  "sha256": "c68d80c5b05d35a1bc28dab0350d888738db02274aee0ce3c412d7d4463564fd",
-  "bytes": 60999419,
-  "notes": "Usman Studio has a redesigned glossy blue-to-violet play/download logo on its Android launcher and app header, plus an Android themed icon. The installed package, original signing identity, saved files and download queue remain unchanged."
+  "versionName": "3.4",
+  "versionCode": 40,
+  "tag": "studio-v3.4.0",
+  "filename": "Usman-Studio-v3.4.apk",
+  "sha256": "12d48918877d9a4ee54529499b486c6a097f16289eb4aaea743c4a4d38f311ae",
+  "bytes": 60995323,
+  "notes": "Final icon-polish candidate: the original glossy Studio logo now has balanced padding, Samsung-safe adaptive foreground sizing, and a centered themed icon. Source-level update, transfer, queue and UI tests passed. Existing package, signing identity, engine, saved files and download queue remain unchanged."
 }
